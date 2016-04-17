@@ -1,2 +1,0 @@
-# DividirConta
-DividirConta
